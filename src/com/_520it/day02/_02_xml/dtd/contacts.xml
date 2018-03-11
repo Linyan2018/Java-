@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE contacts SYSTEM "contactsData.dtd">
+<contacts> 
+	<linkman>
+		<name>Will</name>
+		<email>iwiller@sina.cn</email>
+		<address>广州</address>
+		<group>小码哥教育</group>
+	</linkman> 
+	<linkman>
+		<name>Stef</name>
+		<email>lanyotech@qq.com</email>
+		<address>广州</address>
+		<group>小码哥教育</group>
+	</linkman>
+</contacts>
